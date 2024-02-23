@@ -1,0 +1,35 @@
+@media only screen and (min-width:1025px) {
+
+    .container-fluid0 {
+        display: flex;
+        margin-left: 400px;
+        margin-top: -200px;
+    }
+
+    .container-fluid1 {
+        margin-left:400px;
+    }
+
+    .img-fluid {
+        height: auto;
+        margin-left: 100px;
+    }
+    
+    .container-fluid2 {
+        margin-left: 400px;
+        text-wrap: wrap;
+    }
+    #btn1 {
+        margin-left: 400px;
+
+    }
+
+    .footer {
+        margin-left: 150px;
+    }
+
+    .link {
+       margin-left: 1100px;
+    margin-top: -60px;
+    }
+}

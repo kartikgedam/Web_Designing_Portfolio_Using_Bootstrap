@@ -1,0 +1,13 @@
+@media only screen and (min-width:1025px) {
+    .aboutpara {
+        margin-left: 150px;
+        display: flex;
+        width: 1000px;
+    }
+    
+    #imgsrc1 {
+        float: right;
+       margin-top: -150px;
+
+    }
+}
